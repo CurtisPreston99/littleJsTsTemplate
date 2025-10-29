@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "echo server running on http://localhost:4000/ && webpack-dev-server --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "cap:run-android": "npm run build && npx cap run android"
   },
   "keywords": [],
   "author": "",

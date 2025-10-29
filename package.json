@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "",
   "devDependencies": {
+    "@capacitor/cli": "^7.4.4",
     "clean-webpack-plugin": "^4.0.0",
     "copy-folder-util": "^1.1.6",
     "copy-webpack-plugin": "^13.0.1",
@@ -23,6 +24,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "@capacitor/android": "^7.4.4",
     "littlejsengine": "^1.13.4"
   }
 }

@@ -3,7 +3,8 @@
 this started from another template so thank you for that 
 [typescript-app-starter](https://github.com/AdamGuar/no-frameworks-typescript-app-starter)
 
-it also comes with capacitor build in 
+it also comes with capacitor build in and github actions to build a apk
+also deploys a build github pages 
 # How to install / run / build
 
 * run `npm install` to fetch dependencies,
